@@ -112,7 +112,7 @@
   <a href="https://tryhackme.com/p/Mark.Jaden">
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://www.hackthebox.com/profile/Makarand_Santosh_Jadhav">
+  <a href="https://app.hackthebox.com/profile/MarkJaden">
     <img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
