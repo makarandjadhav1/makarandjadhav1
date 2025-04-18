@@ -100,10 +100,23 @@
   </a>
 </p>
 
-## 🎵 Now Playing on Spotify
+## 🎵 My Spotify Stats
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwqgbbcczol2iptmnwanfet2fa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Now Playing" width="50%"/>
+  <a href="https://open.spotify.com/user/31jwqgbbcczol2iptmnwanfet2fa">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwqgbbcczol2iptmnwanfet2fa&count=1&width=400" alt="Recent Spotify Plays" />
+</p>
+
+<!-- Alternative version with username displayed -->
+<p align="center">
+  <a href="https://open.spotify.com/user/31jwqgbbcczol2iptmnwanfet2fa">
+    <img src="https://img.shields.io/badge/makarandjadhav1-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  </a>
+  <br/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwqgbbcczol2iptmnwanfet2fa&cover_image=true&theme=novatorem&show_offline=true" width="400" alt="Spotify Profile Card"/>
 </p>
 
 ## 💡 Fun Fact
