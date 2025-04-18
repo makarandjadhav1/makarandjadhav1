@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Makarand Jadhav 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Full+Stack+Developer;Open-Source+Contributor;Tech+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Cyber+Security;Open-Source+Contributor;Tech+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makarandjadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="makarandjadhav1" /> 
@@ -107,7 +107,6 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
   <br/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jwqgbbcczol2iptmnwanfet2fa&count=1&width=400" alt="Recent Spotify Plays" />
 </p>
 
 <!-- Alternative version with username displayed -->
@@ -116,7 +115,6 @@
     <img src="https://img.shields.io/badge/makarandjadhav1-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
   </a>
   <br/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jwqgbbcczol2iptmnwanfet2fa&cover_image=true&theme=novatorem&show_offline=true" width="400" alt="Spotify Profile Card"/>
 </p>
 
 ## 💡 Fun Fact
