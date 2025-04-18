@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Makarand Jadhav 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Cyber+Security;Open-Source+Contributor;Tech+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Cyber+Security;Dev+Ops;Open-Source+Contributor;Tech+Enthusiast;Continuous+Learner)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makarandjadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="makarandjadhav1" /> 
