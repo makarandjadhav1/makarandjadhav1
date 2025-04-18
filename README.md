@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=makarandjadhav1&label=Profile%20views&color=0e75b6&style=flat" alt="makarandjadhav1" /> 
   <a href="https://github.com/makarandjadhav1?tab=followers"><img src="https://img.shields.io/github/followers/makarandjadhav1?label=Followers&style=social" alt="GitHub followers" /></a>
   <a href="https://tryhackme.com/p/Mark.Jaden"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://www.hackthebox.com/profile/MarkJaden"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
+  <a href="https://app.hackthebox.com/profile/MarkJaden"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
 </p>
 
 ## 🔥 My Stats
