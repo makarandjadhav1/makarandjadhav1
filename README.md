@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Passionate+Developer;Open-Source+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="makarandjadhav1" /> 
   <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" /></a>
 </p>
 
 ## 🔥 My Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=radical" alt="yourusername" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makarandjadhav1&show_icons=true&locale=en&theme=radical" alt="makarandjadhav1" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makarandjadhav1&theme=radical" alt="makarandjadhav1" />
 </p>
 
 <p align="center">
@@ -121,5 +121,5 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
+  <img src="[https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid](https://open.spotify.com/user/31jwqgbbcczol2iptmnwanfet2fa?si=dbb5f463b60a4fb9)&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
 </p>
